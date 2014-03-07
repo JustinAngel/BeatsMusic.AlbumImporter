@@ -27,5 +27,9 @@ This is an open source WPF project demonstrating how to use the BeatsMusic devel
 2. Add your API keys and secrets to BeatsClients.cs and RdioImporter.xaml.cs
 3. Build. 
 4. Make sure you have .Net 4.5.1 installed.
-5. You may need iTunes / WMP installed as-well. 
-6. Run 
+5. If you're importing from Rdio: run the IE10.reg file in the project base directory. 
+7. Open IE10 --> Options --> Security --> Custom Level --> Miscellaneous --> Display Mixed Content --> Change "Prompt" to "Enable".  
+8. Run 
+9. You may need iTunes / WMP installed as-well. 
+
+I'll add an installer that does all of this soon. 
