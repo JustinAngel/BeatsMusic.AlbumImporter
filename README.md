@@ -5,7 +5,7 @@ This app allows importing albums to your BeatsMusic library from iTunes, Windows
 
 This is an open source WPF project demonstrating how to use the BeatsMusic developer APIs from C#.
 
-Go head and read up about Beats Music's Developer APIs @ **https://Developer.BeatsMusic.com**
+Go head and read up on Beats Music's Developer APIs @ **https://Developer.BeatsMusic.com**
 
 
 ### Step 1: Choosing which music service to import from 
